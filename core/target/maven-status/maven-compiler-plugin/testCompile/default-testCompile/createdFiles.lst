@@ -1,0 +1,10 @@
+com/sarvex/gameoflife/domain/WhenYouReadAGridFromAString.class
+com/sarvex/gameoflife/domain/WhenYouCreateACell.class
+com/sarvex/gameoflife/test/categories/IntegrationTests.class
+com/sarvex/gameoflife/domain/WhenYouPlayTheGameOfLife.class
+com/sarvex/gameoflife/domain/WhenYouCreateAGrid.class
+com/sarvex/gameoflife/integration/WhenYouStoreGamesInADatabase.class
+com/sarvex/gameoflife/domain/WhenYouPrintAGrid.class
+com/sarvex/gameoflife/test/categories/RegressionTests.class
+com/sarvex/gameoflife/domain/WhenYouCreateANewUniverse.class
+com/sarvex/gameoflife/test/categories/SlowTests.class

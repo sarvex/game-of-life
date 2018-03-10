@@ -1,0 +1,10 @@
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/domain/WhenYouPrintAGrid.java
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/domain/WhenYouCreateAGrid.java
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/domain/WhenYouCreateANewUniverse.java
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/test/categories/IntegrationTests.java
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/test/categories/SlowTests.java
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/integration/WhenYouStoreGamesInADatabase.java
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/domain/WhenYouCreateACell.java
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/domain/WhenYouReadAGridFromAString.java
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/test/categories/RegressionTests.java
+/home/sarvex/Documents/game-of-life/core/src/test/java/com/sarvex/gameoflife/domain/WhenYouPlayTheGameOfLife.java

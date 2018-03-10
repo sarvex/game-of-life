@@ -1,0 +1,5 @@
+com/sarvex/gameoflife/domain/Grid.class
+com/sarvex/gameoflife/domain/Cell.class
+com/sarvex/gameoflife/domain/GridReader.class
+com/sarvex/gameoflife/domain/GridWriter.class
+com/sarvex/gameoflife/domain/Universe.class

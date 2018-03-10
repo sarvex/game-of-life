@@ -1,0 +1,3 @@
+com/sarvex/gameoflife/webtests/controllers/WhenCreatingANewGame.class
+com/sarvex/gameoflife/webtests/controllers/WhenSpawningANewGeneration.class
+com/sarvex/gameoflife/webtests/controllers/WhenDisplayingTheHomePage.class
